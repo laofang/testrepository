@@ -1,2 +1,2 @@
 test local branch
-nihao
+nihao nihao
